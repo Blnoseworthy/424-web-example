@@ -7,6 +7,9 @@ This project enables us to learn source code control using GIT
 ## Purpose 
 To have code we can use for hands on experience.
 
+## Conflict on Master
+This section will be different on the conflictbranch
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SBS-ISOM/424-web-example/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
