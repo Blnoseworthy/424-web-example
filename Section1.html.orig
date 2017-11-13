@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+<!-- What happens when we have conflucts?
+by Brandi Noseworthy
+ -->
+<h1> I deleted the first paragraph!</h1>
+Curabitur finibus eleifend tincidunt. Quisque scelerisque tortor sit amet scelerisque ullamcorper. Duis et arcu ornare ligula ultricies cursus placerat ut magna. Aliquam vel pharetra nunc. Integer eu mauris venenatis, feugiat dolor nec, dapibus risus. Mauris tempor vitae nulla sit amet tempor. Cras dapibus, mauris et porttitor tempor, neque erat condimentum urna, id euismod purus ex sit amet justo. Etiam porta tempus consequat. Etiam condimentum iaculis lorem, vel ornare nulla pretium non. Morbi rutrum vel lectus in posuere. In pulvinar, tellus quis lacinia interdum, magna risus pellentesque neque, ac tristique nisi magna ut sapien. Sed placerat ullamcorper consectetur. Proin malesuada, mi a tristique pulvinar, diam nisi tincidunt ligula, non luctus quam sem eget nibh. Donec non accumsan justo, vel ultrices lacus.
+=======
+<!DOCTYPE html>
+<html>
+<!-- 
+What happends when we have conflicts?-->
+<body>
+<h1> Conflict! </h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ornare iaculis mattis. Donec at leo vitae sem pharetra tincidunt ac eu tortor. Aenean eu aliquam velit, vitae iaculis urna. Curabitur sagittis sed urna in gravida. Cras quis tortor elementum, semper elit vel, efficitur metus. In dapibus, nisi id cursus vulputate, elit dui efficitur leo, vitae volutpat quam justo quis metus. Morbi vehicula porta velit quis blandit. Nulla dictum lectus est, gravida ultricies tellus vestibulum in. Sed tincidunt scelerisque molestie. Maecenas sit amet ante semper, facilisis augue non, maximus sem. Morbi erat metus, convallis id lacus vel, fermentum varius quam. Quisque fermentum orci a porttitor pharetra. Duis et lectus massa. Suspendisse ornare, metus ut lobortis vehicula, sapien nisl porta arcu, ac pellentesque nisl justo nec velit.</p>
+>>>>>>> conflictbranch
+
+</body>
+</html>
+
