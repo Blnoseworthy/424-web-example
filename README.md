@@ -10,7 +10,7 @@ To have code we can use for hands on experience.
 ## Conflict on Master
 This section will be different on the conflictbranch
 
-## Method
+## Methodnew
 How iwll we resolve this conflict, since the "base" now has a conflict in it?
 
 ## Welcome to GitHub Pages
