@@ -10,6 +10,10 @@ To have code we can use for hands on experience.
 ## Conflict on ConflictBranch
 This section is now different on the conflictbanch as soon as we save, close, add and commit it
 
+## Methodnew
+How iwll we resolve this conflict, since the "base" now has a conflict in it?
+## Methodnewnew
+How will we resolve this conflict, since the "base" now has a conflict in it?
 ## Method
 How will we resolve this conflict, since the "base" now has a conflict in it ?
 
